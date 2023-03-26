@@ -1,0 +1,10 @@
+.mypy_cache/
+nilmtk2/
+residential/
+metadata/
+.ipynb_checkpoints/
+data/
+model.pickle
+*.h5
+DearPyGui/
+data.csv
